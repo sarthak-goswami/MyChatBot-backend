@@ -58,16 +58,16 @@ http://localhost:5000
 
 ### Authentication
 POST /api/auth/signup\
-POST /api/auth/login\
+POST /api/auth/login
 
 ### Conversations
 GET /api/conversations\
 POST /api/conversations\
-GET /api/conversations/:id\
+GET /api/conversations/:id
 
 ### Messages
 POST /api/messages\
-GET /api/messages/:conversationId\
+GET /api/messages/:conversationId
 
 # Author - Sarthak Goswami
 
